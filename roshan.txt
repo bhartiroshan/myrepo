@@ -1,5 +1,7 @@
 This is my first git file. 
 I am testing it to see if all the git command works. 
 
+This is a change I am writing. 
+
 Thanks,
 Roshan 
